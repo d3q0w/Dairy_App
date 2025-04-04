@@ -1,4 +1,4 @@
-# **DAIRY APP**
+# **DAIRY APPLICATION**
 ## GROUP MEMBERS
 - Deqow Mohamed
 - Ian Mandila
