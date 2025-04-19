@@ -8,7 +8,7 @@ The **Farmer Module** streamlines milk request submissions, while the **Authenti
 - **Farmer Module**:  
   Java (Spring Boot), Spring Data JPA, MySQL, React.js (frontend dashboard).  
 - **Authentication Module**:  
-  Spring Security, JSON Web TOkens(JWT), React.js (login/register forms).  
+  Spring Security, JSON Web Tokens(JWT), React.js (login/register forms).  
 - **Testing**: Postman (API testing for farmer/auth endpoints).  
 - **Database**: MySQL.
 
